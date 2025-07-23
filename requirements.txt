@@ -1,0 +1,11 @@
+flask
+streamlit
+pandas
+matplotlib
+seaborn
+openai
+plotly   
+sqlite3
+
+
+
